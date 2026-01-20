@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-It is fun to play tic tac toe
+It's fun to play tic tac toe
